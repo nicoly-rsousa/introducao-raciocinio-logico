@@ -1,7 +1,7 @@
 1. Se ontem foi quarta-feira, amanhã será...
-
+sexta
 2. Complete a sequência: 1, 4, 9, 16, 25, ...
-
+35
 3. Um trem de 100 metros de comprimento viaja a 50 km/h. Quanto tempo levará para atravessar um túnel de 50 metros?
 
 4. Júlia é mais alta que Ana. Ana é mais baixa que Bruno. Qual dos três é o mais alto?
